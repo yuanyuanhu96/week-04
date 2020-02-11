@@ -26,3 +26,16 @@ a:hover
 
 
 a:focus?
+
+
+command + f
+command + shift + f
+
+option + shift + down
+
+1fr
+
+
+    grid-template-columns: repeat(4, 1fr);
+
+
