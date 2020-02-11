@@ -1,2 +1,8 @@
 option+shipt+down
 Article
+When you have something completed, commit
+Every commit should be working
+
+90px
+1em
+be consistence in color mode
