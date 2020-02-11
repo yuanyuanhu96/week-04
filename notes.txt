@@ -6,3 +6,23 @@ Every commit should be working
 90px
 1em
 be consistence in color mode
+
+space seperate 2 classes
+
+
+bolder: 1px solid color;
+
+command + /
+
+Command + d
+
+.project p space shows child element
+
+
+h1 之后可能换成别的
+a 不太可能变化
+
+a:hover
+
+
+a:focus?
